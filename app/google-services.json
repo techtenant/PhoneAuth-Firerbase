@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103223049648",
+    "firebase_url": "https://phoneauth-ef2ee.firebaseio.com",
+    "project_id": "phoneauth-ef2ee",
+    "storage_bucket": "phoneauth-ef2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103223049648:android:70582002a525486a",
+        "android_client_info": {
+          "package_name": "ke.co.homeautogroup.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103223049648-dt5gocdmhr80c8a65p0d31dgg4d23cll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.homeautogroup.phoneauth",
+            "certificate_hash": "dde2a248b0b6c2e904c2ca0dd2b6b35c4d3d0d26"
+          }
+        },
+        {
+          "client_id": "103223049648-bbgqmnsqmod21tid4j8c25lujmqjrsae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QjZvV2Lpau1ur65hWW1SE2MUGCbystw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103223049648-bbgqmnsqmod21tid4j8c25lujmqjrsae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
